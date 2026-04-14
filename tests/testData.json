@@ -1,0 +1,10 @@
+{
+    "user": {
+        "_id": "69d9def30847010015c4f3c2",
+        "firstName": "Test",
+        "lastName": "User",
+        "email": "trump1@war.com",
+        "__v": 1
+    },
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2OWQ5ZGVmMzA4NDcwMTAwMTVjNGYzYzIiLCJpYXQiOjE3NzU4ODYwNjd9.Pq_bUd4oZk1J4BHZtKGfM4NChQH0UfAsN7lMR39cOIQ"
+}
