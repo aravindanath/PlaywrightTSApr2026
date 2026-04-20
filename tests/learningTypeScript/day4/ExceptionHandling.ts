@@ -19,7 +19,7 @@ try {
 }
 
 
-if(city === 0){
+if(city === "0"){
     console.log("City is New york.");
 } else {
     console.log("City is not New York.");
