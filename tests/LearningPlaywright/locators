@@ -13,3 +13,10 @@
 //preceding
 //following-sibling
 //preceding-sibling 
+
+// CSS
+. -- class
+# -- id
+* -- contains
+$ -- ends with
+^ -- start with
